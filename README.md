@@ -5,3 +5,4 @@ branch1 edit 2
 branch1 edit 3
 new change 1
 edit2
+edit3
